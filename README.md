@@ -31,3 +31,8 @@ public int getAllChildViewCount(View view) {
 ![image-20200707234625188](C:\Users\Administrator\Desktop\hw2admit\byte_dance_android_2\README.assets\image-20200707234625188.png)
 
 ![image-20200707234645336](C:\Users\Administrator\Desktop\hw2admit\byte_dance_android_2\README.assets\image-20200707234645336.png)
+
+统计view的个数
+
+![image-20200707235951981](C:\Users\Administrator\Desktop\hw2admit\byte_dance_android_2\README.assets\image-20200707235951981.png)
+
