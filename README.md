@@ -24,15 +24,15 @@ public int getAllChildViewCount(View view) {
 
 界面初始，区分不同头像与官方
 
-![image-20200707234526814](C:\Users\Administrator\Desktop\hw2admit\byte_dance_android_2\README.assets\image-20200707234526814.png)
+![image](https://github.com/Justherozen/byte_dance_android_2/blob/master/README.assets/image-20200707234526814.png)
 
 点击进入某个聊天窗口，有两处是第几个item的提醒（一处只是短通知）
 
-![image-20200707234625188](C:\Users\Administrator\Desktop\hw2admit\byte_dance_android_2\README.assets\image-20200707234625188.png)
+![image](https://github.com/Justherozen/byte_dance_android_2/blob/master/README.assets/image-20200707234625188.png)
 
-![image-20200707234645336](C:\Users\Administrator\Desktop\hw2admit\byte_dance_android_2\README.assets\image-20200707234645336.png)
+![image](https://github.com/Justherozen/byte_dance_android_2/blob/master/README.assets/image-20200707234645336.png)
 
 统计view的个数
 
-![image-20200707235951981](C:\Users\Administrator\Desktop\hw2admit\byte_dance_android_2\README.assets\image-20200707235951981.png)
+![image](https://github.com/Justherozen/byte_dance_android_2/blob/master/README.assets/image-20200707235951981.png)
 
